@@ -176,6 +176,7 @@ You can sort/filter/download the data from [Airtable](https://airtable.com/shrXv
 
 ## M - O
 
+- [Made by Anuj](https://madebyanuj.com) | Koteshwor, Kathmandu | Branding & Web Design that people remember
 - [Mahuri Ventures](https://mahuriventures.com) | Bharatpur, Chitwan | Smart Solution for Smart Business
 - [Makura Creations](https://makuracreations.com) | Pulchowk Rd, Patan | Web design/development, Software development, Mobile app development, Social media marketing and SEO
 - [Manaram Technology](https://www.manaram.technology/) | Baluwatar, Kathmandu | We are Digital Innovators who love turning visions into reality
